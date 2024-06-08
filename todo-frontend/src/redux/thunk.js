@@ -1,7 +1,7 @@
 import axios from 'axios';
 import { setTodos, addTodo, removeTodo, updateTodo, completeTodo } from './todoSlice';
 
-const API_URL = 'http://localhost:5000/api/todos';
+const API_URL = 'https://todo-app-lac-xi.vercel.app/api/todos';
 
 export const fetchTodos = () => async (dispatch) => {
   const response = await axios.get(API_URL);
