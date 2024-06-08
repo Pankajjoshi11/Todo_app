@@ -2,7 +2,7 @@
 
 This is a full-stack Todo application built with React, Redux Toolkit, Redux Thunk, Express, and MongoDB. The application allows users to create, update, delete, and mark todos as completed. The backend is built with Express and MongoDB, while the frontend is built with React and styled with Tailwind CSS.
 
-The website is hosted at [todo-app-3s2f.vercel.app](todo-app-3s2f.vercel.app)
+The website is hosted at [https://todo-app-3s2f.vercel.app/](https://todo-app-3s2f.vercel.app/)
 
 ## Features
 
