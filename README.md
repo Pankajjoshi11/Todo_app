@@ -27,7 +27,7 @@ The website is hosted at [https://todo-app-3s2f.vercel.app/](https://todo-app-3s
 
 1. **Clone the repository:**
     ```sh
-    git clone https://github.com/yourusername/Todo_app.git
+    git clone https://github.com/Pankajjoshi11/Todo_app.git
     cd Todo_app
     ```
 
